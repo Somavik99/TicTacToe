@@ -1,0 +1,9 @@
+.btn {
+  box-shadow: 0 0 8px rgb(57, 56, 56);
+  transition: all 0.2s ease-out;
+}
+
+.btn:hover {
+  translate: scale(1.1);
+  box-shadow: 0 0 10px rgb(57, 56, 56);
+}

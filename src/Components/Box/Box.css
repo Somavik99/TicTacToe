@@ -1,0 +1,19 @@
+.boardX{
+    box-shadow: 0 0 8px rgb(57, 56, 56);
+    transition: all 0.2s ease-out;
+}
+
+.boardX:hover{
+    translate: scale(1.1);
+    box-shadow: 0 0 15px rgb(57, 56, 56);
+}
+
+.boardO{
+    box-shadow: 0 0 8px rgb(57, 56, 56);
+    transition: all 0.2s ease-out;
+}
+
+.boardO:hover{
+    translate: scale(1.1);
+    box-shadow: 0 0 15px rgb(57, 56, 56);
+}
